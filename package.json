@@ -1,0 +1,11 @@
+{
+  "name": "mean-tutorial",
+  "version": "1.0.0",
+  "description": "Following a MEAN tutorial on HackHands",
+  "author": "Sam Warner",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "gulp": "^3.9.1"
+  }
+}
